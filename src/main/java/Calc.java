@@ -75,4 +75,5 @@ public class Calc {
             default: System.out.println("Такая операция не реализована");
         }
     }
+
 }
